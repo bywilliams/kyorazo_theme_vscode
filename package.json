@@ -1,0 +1,26 @@
+{
+    "name": "kyorazo-theme",
+    "displayName": "kyorazo_theme",
+    "description": "tema dark para os amantes de temas escuros",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#485FA2",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "kyorazo_dark_theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kyorazo_dark_theme-color-theme.json"
+            }
+        ]
+    }
+}
