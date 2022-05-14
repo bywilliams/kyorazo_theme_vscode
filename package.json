@@ -2,10 +2,16 @@
     "name": "kyorazo-theme",
     "displayName": "kyorazo_theme",
     "description": "tema dark para os amantes de temas escuros",
+    "homepage": "https://bywilliams.github.io/site/",
+    "publisher": "WilliamKyorazo",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.67.0"
     },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/bywilliams/kyorazo_theme_vscode.git"
+	},
     "categories": [
         "Themes"
     ],
