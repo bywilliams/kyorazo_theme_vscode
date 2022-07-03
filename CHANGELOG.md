@@ -1,9 +1,21 @@
-# Change Log
+# Change Log Kyorazo_theme 1.0.1
 
-All notable changes to the "kyorazo-theme" extension will be documented in this file.
+## Main Changes:
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+![image da aplicação](https://thumbs2.imgbox.com/c2/5e/zFTfy04e_t.gif)
 
-## [Unreleased]
+- Colors
+    - Sidebar
+    - Panel (terminal)
+    - Breadcrumbs
+    - Scrollbar
+    - Widgets
 
-- Initial release
+- Editor
+    - Variables
+    - Keywords
+    - Classes and Constants
+    - Functions, Methods
+    - Strings
+
+And so many others.

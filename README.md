@@ -1,10 +1,12 @@
 # Kyorazo VS Code Dark Theme 
 
-Tema criado por mim para se usar no VS Code para quem curte temas escuros.
+## Obrigado pelos mais de 200 downloads!!
+
+Tema criado por kyorazo a se usar no VS Code para quem curte temas escuros.
 
 ## Temas para VS Code
 
-O Visual Studio Code (também chamado de VS Code), é o editor da Microsoft que vem com suporte para várias linguagens de programação (JavaScript, C#, C++, PHP, Java, HTML, R,Python, SQL, TypeScript). Além de ser muito querido pelos desenvolvedores, o VS Code possui diversas características, como:
+O Visual Studio Code (também chamado de VS Code), é o editor da Microsoft que vem com suporte para várias linguagens de programação (JavaScript, C#, C++, PHP, Java, HTML, R,Python, SQL, TypeScript). Além de ser muito querido pelos desenvolvedores, o VS Code possui diversas características.
 
 ## Por que Utilizar Temas?
 
@@ -15,8 +17,7 @@ Existem vários temas no VS Code disponíveis para você experimentar. Você pod
 
 Outra forma de instalar um tema no VS Code, é acessar o marketplace e selecionar o tema que deseja baixar. Você também pode encontrar temas pré selecionados que encontram-se disponível no marketplace.
 
-
 # Imagem do Tema
 
-![image da aplicação](https://images2.imgbox.com/4d/ac/w1FJsmNg_o.gif)
+![image da aplicação](https://images2.imgbox.com/c2/5e/zFTfy04e_o.gif)
 
