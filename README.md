@@ -19,5 +19,5 @@ Outra forma de instalar um tema no VS Code, é acessar o marketplace e seleciona
 
 # Imagem do Tema
 
-![image da aplicação](https://images2.imgbox.com/c2/5e/zFTfy04e_o.gif)
+![image da aplicação](assets/kyorazo.gif)
 
