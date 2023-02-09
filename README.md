@@ -1,6 +1,6 @@
 # Kyorazo VS Code Dark Theme 
 
-## Obrigado pelos mais de 500 downloads!!
+## Obrigado pelos mais de 1k de downloads!!
 
 Tema criado por kyorazo a se usar no VS Code para quem curte temas escuros.
 
